@@ -40,40 +40,25 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 
 ## Part A - Survey Design: 
 
-The number of your chosen topic: `1`
+The number of your chosen topic: `#`
 
 Describe the purpose of your survey:
 ```
-This survey aims to identify the key drivers of voluntary turnover in entry- and lower-level positions and to collect honest feedback on culture, leadership, development opportunities, and compensation. The findings will guide evidence-based actions to strengthen retention and engagement.```
+write your answer here...
+```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-Target Population: All current employees in entry- and lower-level positions at the company, as well as all employees who have voluntarily left such positions within the last 6 months.
-
-Sampling Frame:
-Current Employee: Active employees (HR system).
-Former Employee: Voluntary leavers from entry- to mid-level roles in the last six months.
-
-Sampling Units: Individual employees (both current and former).
-
-Overall Sampling Strategy: Stratified random sampling to ensure balanced representation across employee status, departments, and job levels. Random samples will be drawn within each group. A full census may be considered if practical.
+write your answer here...
 ```
 
 Your 5-10 question survey:
 ```
-For questions that use a rating scale, please select a number from 1 to 5 that best reflects your opinion: 5 - very positive/strongly agree, 4 - Possitive/agree, 3 - neutral, 4 - negative/disagree, 5 - very negative / strongly disagree.
-
-1. How happyare you at work?
-2. How likely are you refer XYZ as a good place to work?
-3. What did you find most rewarding about your role? (Please select up to two):
-    -The work itself was interesting
-    -Positive relationships with colleagues
-    -Opportunities to learn and develop new skills
-    -Feeling of contributing to the company's mission
-    -Compensation and benefits
-    -Other (please specify): _______________
-4. I have a clear understanding of what is expected of me in my role.
-5. How would you rate your work-life balance?
+1. write your question here...
+2. write your question here...
+3. write your question here...
+4. write your question here...
+5. write your question here...
 6. write your question here... (optional)
 7. write your question here... (optional)
 8. write your question here... (optional)
@@ -86,15 +71,7 @@ For questions that use a rating scale, please select a number from 1 to 5 that b
 Identify and describe survey features:
 
 ```
-1. Sample type: Stratified probability sample
-2. Sample size: 16,149 respondents
-3. Target population: persons aged 15 years and over living in private households in Canada, excluding residents of the Yukon, Northwest Territories and Nunavut and full time residents of institutions
-4. Sampling frame: Telephone/address dwelling frame covering landline & cell households
-5. Survey mode(s): Telephone interview + online (web) questionnaire
-6. Timeline: Sept–Dec 2018
-7. Response rate: 41.9%
-8. Sources of error: Sampling error, non-coverage (households w/o phone), non-response bias.
-9. Link to documentation and any additional sources used: https://www150.statcan.gc.ca/n1/pub/45-25-0001/index-eng.htm
+write your answer here
 ```
 
 ## Rubric
