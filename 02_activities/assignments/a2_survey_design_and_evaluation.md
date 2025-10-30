@@ -44,17 +44,34 @@ The number of your chosen topic: `1`
 
 Describe the purpose of your survey:
 ```
-This survey aims to identify the key drivers of voluntary turnover in entry- and lower-level positions and to collect honest feedback on culture, leadership, development opportunities, and compensation. The findings will guide evidence-based actions to strengthen retention and engagement.
+This survey aims to identify the key drivers of voluntary turnover in entry- and lower-level positions and to collect honest feedback on culture, leadership, development opportunities, and compensation. The findings will guide evidence-based actions to strengthen retention and engagement.```
+
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+Target Population: All current employees in entry- and lower-level positions at the company, as well as all employees who have voluntarily left such positions within the last 6 months.
+
+Sampling Frame:
+Current Employee: Active employees (HR system).
+Former Employee: Voluntary leavers from entry- to mid-level roles in the last six months.
+
+Sampling Units: Individual employees (both current and former).
+
+Overall Sampling Strategy: Stratified random sampling to ensure balanced representation across employee status, departments, and job levels. Random samples will be drawn within each group. A full census may be considered if practical.
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
+For questions that use a rating scale, please select a number from 1 to 5 that best reflects your opinion: 5 - very positive/strongly agree, 4 - Possitive/agree, 3 - neutral, 4 - negative/disagree, 5 - very negative / strongly disagree.
+
+1. How happyare you at work?
+2. How likely are you refer XYZ as a good place to work?
+3. What did you find most rewarding about your role? (Please select up to two):
+    -The work itself was interesting
+    -Positive relationships with colleagues
+    -Opportunities to learn and develop new skills
+    -Feeling of contributing to the company's mission
+    -Compensation and benefits
+    -Other (please specify): _______________
 4. write your question here...
 5. write your question here...
 6. write your question here... (optional)
