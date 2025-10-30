@@ -86,7 +86,15 @@ For questions that use a rating scale, please select a number from 1 to 5 that b
 Identify and describe survey features:
 
 ```
-write your answer here
+1. Sample type: Stratified probability sample
+2. Sample size: 16,149 respondents
+3. Target population: persons aged 15 years and over living in private households in Canada, excluding residents of the Yukon, Northwest Territories and Nunavut and full time residents of institutions
+4. Sampling frame: Telephone/address dwelling frame covering landline & cell households
+5. Survey mode(s): Telephone interview + online (web) questionnaire
+6. Timeline: Sept–Dec 2018
+7. Response rate: 41.9%
+8. Sources of error: Sampling error, non-coverage (households w/o phone), non-response bias.
+9. Link to documentation and any additional sources used: https://www150.statcan.gc.ca/n1/pub/45-25-0001/index-eng.htm
 ```
 
 ## Rubric
