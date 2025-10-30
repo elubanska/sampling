@@ -72,8 +72,8 @@ For questions that use a rating scale, please select a number from 1 to 5 that b
     -Feeling of contributing to the company's mission
     -Compensation and benefits
     -Other (please specify): _______________
-4. write your question here...
-5. write your question here...
+4. I have a clear understanding of what is expected of me in my role.
+5. How would you rate your work-life balance?
 6. write your question here... (optional)
 7. write your question here... (optional)
 8. write your question here... (optional)
