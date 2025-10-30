@@ -40,11 +40,13 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 
 ## Part A - Survey Design: 
 
-The number of your chosen topic: `1`
+The number of your chosen topic: `#`
 
 Describe the purpose of your survey:
 ```
-This survey aims to identify the key drivers of voluntary turnover in entry- and lower-level positions and to collect honest feedback on culture, leadership, development opportunities, and compensation. The findings will guide evidence-based actions to strengthen retention and engagement.
+write your answer here...
+```
+
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
 write your answer here...
